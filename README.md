@@ -1,5 +1,8 @@
-# Practica1
-Este repositorio es para proyectos en Estructura de Datos 2 - Arbol Binario
+# Proyectos
+Este repositorio es para proyectos de Estructura de Datos 2
+
+# Practicas
+- Arbol Binario
 
 ## Participantes
 - Edilson Mamani Maturano
